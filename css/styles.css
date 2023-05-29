@@ -58,3 +58,8 @@ button{
 .operator{
     color: #6dee0a;
 }
+
+@media screen and (max-width: 465px) {
+    
+}
+    
